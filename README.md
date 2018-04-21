@@ -1,4 +1,4 @@
 # hello-world
-GitHub intro
+GitHub guide
 
 learning to code
